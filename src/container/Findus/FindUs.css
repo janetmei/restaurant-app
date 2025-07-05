@@ -1,0 +1,11 @@
+.app__wrapper_img {
+    flex: 1;
+    min-width: 300px;
+}
+
+.findus__image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
