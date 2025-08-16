@@ -16,7 +16,7 @@
 
 ### CSS: Para el diseño y la maquetación.
 
-#3# JavaScript: Para la interactividad, como la galería de fotos o el formulario de reservaciones.
+### JavaScript: Para la interactividad, como la galería de fotos o el formulario de reservaciones.
 
 ### Frameworks: React 
 
