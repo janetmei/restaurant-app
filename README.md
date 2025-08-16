@@ -19,3 +19,5 @@
 #3# JavaScript: Para la interactividad, como la galería de fotos o el formulario de reservaciones.
 
 ### Frameworks: React 
+
+![video de la pagina](paginagifvideo-ezgif.com-optimize.gif)
